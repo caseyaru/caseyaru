@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! ✨</h1>
 
 
-<div margin-left="auto" margin-top="auto"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caseyaru&theme=default"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caseyaru&theme=default"></div>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caseyaru&theme=default"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caseyaru&theme=default"></div>
 
 <!--
 **caseyaru/caseyaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
