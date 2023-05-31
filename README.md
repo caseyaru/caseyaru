@@ -6,5 +6,5 @@
 📫 Связаться со мной: **arramine@mail.ru**
 
 #### Вашему вниманию - мои проекты:
-- Вёрстка (упор на HTML и CSS с минимальным JS): [Plant](https://github.com/caseyaru/plant), [Russian Travel](https://github.com/caseyaru/russian-travel)
+- Вёрстка (упор на HTML и CSS с минимальным JS): [Plant](https://github.com/caseyaru/plant), [How to learn](https://github.com/caseyaru/how-to-learn),  [Russian Travel](https://github.com/caseyaru/russian-travel)
 - Активное использование JavaScript: [Mesto](https://github.com/caseyaru/mesto)
