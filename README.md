@@ -7,5 +7,5 @@
 
 #### Вашему вниманию - мои проекты:
 - Вёрстка (упор на HTML и CSS с минимальным JS): [Plant](https://github.com/caseyaru/plant), [How to learn](https://github.com/caseyaru/how-to-learn),  [Russian Travel](https://github.com/caseyaru/russian-travel)
-- Активное использование JavaScript: [Mesto](https://github.com/caseyaru/mesto)
-- Основанные на React: [Mesto](https://github.com/caseyaru/mesto-react)
+- Написанные на ванильном JavaScript: [Mesto](https://github.com/caseyaru/mesto)
+- Основанные на React: [Mesto](https://github.com/caseyaru/react-mesto-auth)
