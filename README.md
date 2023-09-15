@@ -10,5 +10,5 @@
 :speech_balloon: **Связаться со мной**
 
 <a href="https://t.me/keitsuare"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge"/></a> 
-<a href="mailto:arramine@mail.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail badge"/></a> 
+<a href="mailto:turkevicholya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail badge"/></a> 
 <a href="https://discordapp.com/users/563049913815007237/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discordmail badge"/></a>
