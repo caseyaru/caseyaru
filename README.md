@@ -10,6 +10,7 @@
 Принимаю участие в таких проектах как
 - [Marketplace of telegram bots for retail](https://github.com/Marketplace-of-telegram-bots-for-retail)
 - [Zetatech](https://github.com/brus69/Zetatech_b2b)
+- [Любимовка](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend)
 
 :fallen_leaf: **Навыки**
 
