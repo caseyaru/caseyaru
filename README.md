@@ -5,7 +5,8 @@
 :pushpin: **Мои проекты**
 - Вёрстка (упор на HTML и CSS с минимальным JS): [Plant](https://github.com/caseyaru/plant), [How to learn](https://github.com/caseyaru/how-to-learn),  [Russian Travel](https://github.com/caseyaru/russian-travel)
 - Написанные на ванильном JavaScript: [Mesto](https://github.com/caseyaru/mesto), [Card form](https://github.com/caseyaru/card-form)
-- Основанные на React: [Mesto](https://github.com/caseyaru/react-mesto-auth), [Movies Explorer](https://github.com/caseyaru/movies-explorer), [Todo Next](https://github.com/caseyaru/todo-nextjs), [GitHub user finder](https://github.com/caseyaru/github-user-find), [Countries](https://github.com/caseyaru/countries-finder)
+- Небольшие проекты на React:  [Todo Next](https://github.com/caseyaru/todo-nextjs), [Quiz](https://github.com/caseyaru/quiz)
+- Основанные на React: [Mesto](https://github.com/caseyaru/react-mesto-auth), [Movies Explorer](https://github.com/caseyaru/movies-explorer), [GitHub user finder](https://github.com/caseyaru/github-user-find), [Countries](https://github.com/caseyaru/countries-finder)
 
 Принимаю участие в таких проектах как
 - [Marketplace of telegram bots for retail](https://github.com/Marketplace-of-telegram-bots-for-retail)
