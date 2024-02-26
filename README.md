@@ -21,4 +21,4 @@
 
 <a href="https://t.me/keitsuare"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge"/></a> 
 <a href="mailto:turkevicholya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail badge"/></a> 
-<a href="https://discordapp.com/users/563049913815007237/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discordmail badge"/></a>
+<a href="https://petrozavodsk.hh.ru/resume/8c2103faff0cad67860039ed1f43434c6b3548?hhtmFrom=resume_list"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="mail badge"/></a> 
