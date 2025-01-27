@@ -12,9 +12,9 @@
 - Основанные на React: [Mesto](https://github.com/caseyaru/react-mesto-auth), [Movies Explorer](https://github.com/caseyaru/movies-explorer), [GitHub user finder](https://github.com/caseyaru/github-user-find), [Countries](https://github.com/caseyaru/countries-finder)
 
 Принимаю участие в таких проектах как
-- [Marketplace of telegram bots for retail](https://github.com/Marketplace-of-telegram-bots-for-retail)
-- [Zetatech](https://github.com/brus69/Zetatech_b2b)
-- [Любимовка](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend)
+- [SUN](https://suncalculate.ru)
+- [Благотворительный фонд «Семья вместе»](https://semyavmeste.org)
+- [Николо-сольбинский монастырь](https://solba.ru)
 
 :fallen_leaf: **Навыки**
 
